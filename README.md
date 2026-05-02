@@ -99,10 +99,10 @@ The system supports both **wired and wireless connectivity** and operates withou
 Due to GitHub file size limits, large files are hosted externally:
 
 👉 **Packet Tracer File (.pkt)**
-[Download here]([PASTE_YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1oldDaMaCxN86EcqfmNDtY0oG6C1FMsS4/view?usp=drive_link))
+[Download here]([PASTE_YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1oldDaMaCxN86EcqfmNDtY0oG6C1FMsS4/view?usp=drive_link))]
 
 👉 **Project Documentation (.docx)**
-[Download here]([PASTE_YOUR_GOOGLE_DRIVE_LINK](https://docs.google.com/document/d/1P2V9IyCppWIP45LBSE6bFlgJMRjClOfh/edit?usp=drive_link&ouid=101793766684269348666&rtpof=true&sd=true))
+[Download here]([(https://docs.google.com/document/d/1P2V9IyCppWIP45LBSE6bFlgJMRjClOfh/edit?usp=drive_link&ouid=101793766684269348666&rtpof=true&sd=true))]
 
 ---
 
